@@ -99,8 +99,8 @@ if _name_ == '_main_':
 ![robo](./img/robomaster.png)
 
 Insert image here
-![Github logo](sam.jpg)
-![Github logo](sam2.jpg)
+![Github logo](sam.jpeg)
+![Github logo](sam2.jpeg)
 
 <br/>
 <br/>
