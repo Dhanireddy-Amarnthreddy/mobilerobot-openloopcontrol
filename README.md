@@ -9,25 +9,25 @@ To develop a python control code to move the mobilerobot along the predefined pa
 
 ## Procedure
 
-Step1:
+# Step1:
+Start.
 
-<br/>
 
-Step2:
+# Step2:
+SWitch on the robot,Check the Battery level using appropriate code.
 
-<br/>
 
-Step3:
+# Step3:
+Measure the expected area with a tape.
 
-<br/>
 
-Step4:
+# Step4:
+Then give commands with the exact measurements to avoid collisions.
 
-<br/>
 
-Step5:
+# Step5:
+Finally run the robot,Then end the program.
 
-<br/>
 
 ## Program
 ```python
