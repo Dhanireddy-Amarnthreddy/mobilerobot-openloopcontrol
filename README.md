@@ -30,7 +30,7 @@ Finally run the robot,Then end the program.
 
 
 ## Program
-```python
+````python
 from robomaster import robot
 import time
 
@@ -92,7 +92,7 @@ if _name_ == '_main_':
 
     ep_robot.close()
 
-```
+````
 
 ## MobileRobot Movement Image:
 
